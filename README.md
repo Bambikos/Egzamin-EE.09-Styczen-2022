@@ -1,7 +1,7 @@
-# Egzamin EE.09 (01.21)
+# Egzamin EE.09 (01.2022)
 
 **Temat:** Tworzenie aplikacji internetowej zgodnie z wymaganiami egzaminacyjnymi kwalifikacji EE.09.  
-**Data:** Styczeń 2021, wersja 01
+**Data:** Styczeń 2022, wersja 02
 
 ## 📁 Struktura
 - `index.html` – kod strony
