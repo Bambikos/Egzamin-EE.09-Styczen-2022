@@ -1,0 +1,63 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header{
+    display: flex;
+}
+
+#baner_lewa,#baner_prawa{
+    background-color: rgb(70, 130, 180);
+    color: white;
+    width: 25%;
+    height: 80px;
+}
+
+#baner_srodek{
+    background-color: rgb(70, 130, 180);
+    color: white;
+    width: 50%;
+    height: 80px;
+    text-align: center;
+}
+
+#main{
+    background-color: rgb(224, 255, 255);
+    padding: 40px;
+}
+
+#main2{
+    display: flex;
+}
+
+#lewy,#prawy{
+    background-color:rgb(70,130, 180);
+    width: 50%;
+    height: 200px;
+    text-align: center;
+}
+
+#stopka{
+    background-color: rgb(224, 255, 255);
+    margin: 1px;
+}
+
+table{
+    border: 1px solid blue;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+td, tr{
+    border: 1px solid blue;
+}
+
+th{
+    border: 1px solid blue;
+    background-color: blue;
+    color: white;
+}
+
+p{
+    margin: 0px;
+}
